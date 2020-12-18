@@ -1,0 +1,13 @@
+body {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 13pt;
+}
+a#a01 {
+    color: green;
+}
+a#a02 {
+    color: red;
+}
+a#a03 {
+    color: purple;
+}

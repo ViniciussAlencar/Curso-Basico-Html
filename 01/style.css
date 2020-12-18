@@ -1,0 +1,13 @@
+p {
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;  
+}
+
+p#p_01 {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 3.5pc;
+    color: rgb(100, 200, 300);
+}
+p#p_02 {
+    font-size: 7pt;
+}
